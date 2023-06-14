@@ -1,2 +1,3 @@
 # co2
 A small (NOT SECURE) cryptographic library. Containing an implementation of RSA, ECC algorithms, and ChaCha.
+This library is susceptible to timing attacks among (probably) other things...
